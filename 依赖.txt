@@ -1,0 +1,2 @@
+跑之前要先装外面的库。
+pip install music21
