@@ -1,2 +1,1 @@
-跑之前要先装外面的库。
-pip install music21
+只用 Python 自带的东西，不用装任何外面的库。
